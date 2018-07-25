@@ -1,2 +1,2 @@
 # Battleship
-Battleship game written in Java
+Battleship game written in Java.
